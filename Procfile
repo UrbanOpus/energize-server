@@ -1,0 +1,1 @@
+web: node lib/energize-server.js
